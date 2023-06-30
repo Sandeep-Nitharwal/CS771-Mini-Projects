@@ -1,7 +1,5 @@
 # Uncovering the Mask of XORRO
 
-![XORRO](https://github.com/divc13/Uncovering-the-Mask-of-XORRO/blob/main/xorro.png)
-
 Welcome to the repository for "Uncovering the Mask of XORRO"! This project aims to explore and analyze the cryptographic algorithm XORRO, revealing its inner workings and evaluating its security properties. XORRO is a symmetric encryption algorithm known for its simplicity and XOR-based operations.
 
 ## Table of Contents
