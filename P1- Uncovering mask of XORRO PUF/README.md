@@ -20,7 +20,7 @@ To get started with the XORRO project, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/divc13/Uncovering-the-Mask-of-XORRO.git
+   git clone https://github.com/Sandeep-Nitharwal/CS771-Mini-Projects.git
    ```
 
 2. Ensure that you have a compatible version of Python (e.g., Python 3.7 or above) installed on your system.
